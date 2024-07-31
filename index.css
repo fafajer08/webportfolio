@@ -211,4 +211,7 @@ section p {
   animation: fadeIn 1s forwards; /* Animation details */
 }
 
+.card {
+  width: 30rem;
+}
   
